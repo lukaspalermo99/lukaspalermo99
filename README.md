@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/lukaspalermo99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukaspalermo99&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaspalermo99&layout=compact&langs_count=7&theme=react"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaspalermo99&layout=compact&langs_count=7&theme=react"/> -->
+  <img align="right" alt="Lks-img" src="https://media.discordapp.net/attachments/879232890062405745/879462530127368202/unknown.png" height = 180px left = 180px>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lks-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +30,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Lks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lks-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lks-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Lks-img" src="https://media.discordapp.net/attachments/879232890062405745/879462530127368202/unknown.png" height = 180px left = 180px>
 </div>
   
   ##
